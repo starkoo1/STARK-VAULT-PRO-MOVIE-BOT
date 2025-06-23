@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "stark-vault-pro-bot",
+  "private_key_id": "d20d5f16a97413847d9f530f193960a653a6172d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCU7oDsTP/W4V6k\n3hX+Ri+c8CH4g9WC1UdYV/pgKWuAnu/PmpCbyA0STQN9DYojCAGkBMgPLNxi9Gzu\nQ7G6BC4uPcLA+Cev3KgeLu27EnKcNR3KdvuXxYLtOu6Wkq9sbVyYWe4MMvhTUrdK\ngd5Gg/3mW6zEAxZGw8geefr8k4RPqGEYNe5g3LvfiVJQCisylUYFEOvvfVIAeAxy\njK5K3hzlFNlKA73hFgP5/Gt82ukkD7PoTinKmqm3Cph10N1AELQVVt8VJbdihy8c\nz0n9TOfBV/PllBPYWxVRaJ08crUib94GLIvZGDBsw3yXVSgvGUNHjhplXfckM+ya\ngj2JVPsdAgMBAAECggEAIKTqk2EJTvNVSHP5hCOkOhUUjSFwgl33ZnDaS4uoqaes\nzueFPPArlVBWLGn0Vlth6K63n0PpBrOm0M77vNc/vBkDgEKkiFKocv08VJ3li0HF\nRuSvnwPG//LD6zM5yl1qR2am2/usHK9rx6QRsYkq9PwxMUGv91Dgo3V/Qy+ed8sN\nywiHmajhlEufTodevYB7+x84KbQJvmBpjJdc3XFn5xspirlP1+AICLh00EixDoV8\nSndb0YdLcVHwNT0IhwlJoug4y0BvuBc7Jb/OrUUiMqoRf93tU574WKIb6IXobryU\nTdtfxnYeL6bO8pjPFfSsClXH3GwjQdUdp4ElhutjDQKBgQDOPxlwYFXUSV4J+O8q\nuirbLHQojZKvbnxnENTCAMMw6eEMnRdqEBnaBawVocIG1SJQj04qwg1tYLAdhuqL\nAi0SUCOCVUN0jOupOBPpGnA0+7pbWRMNwS5KErnygA1E65OhNGV509CDUxMSMvty\nSJ3KBO+GysSjKSAbKiyxuAubswKBgQC42+K5BasvIph/UM11HJjwjAgTpmrQbzGF\nQA5UUI0zyoginF61/UpdTSSqB41Eex0rdilamaYmbJruADetwHe2lPYiZRTNXb5l\nCCAdDsbS0V9u2UB46319CP8+iGXHGTSu1L3dCpxC6JeUg4qrtfpFVFY4LZZbjiXz\niY33mStl7wKBgF0DcAGSMKMQg2yT66ilVPaLUceIMYMUnN4OZSUpGt5QW8JIhmq6\n4C3HKRiIXuyd6l/SgTofUdbmKAbo9ZXDYXhE0/7PXSCO/SjPtYsG9Vuvuxe/UCx/\n1tRpJZsLzPAsHeQxsSIEOKFBMfSfMW8U+LRHDY8Imy3KOkSF/KoZioKpAoGBAI1I\nQLd4BaU4o6RqdRyUhq8R1vptriUvVoGou0rlZYW3vOP27svYkgVM+ECbFPTJwzl8\nTY7Y74teZeqQb/1zpAr/Pj57UrLCeslstF6A9KQbMPzfPc8s6/Or9KguRtssAH++\nSH2vpk3cxjzTbCBgLK7gDiVRciD3OzouXzpk7i4xAoGBAMktg/CNM4+clxnASH9c\n2ECKNMrmJ3HzLf5uB/JL8zK2LqvzD8D4tQ4I66w3Z4NVe1O9rzI/EE6LmBT9pdBP\nQo93oPB5FG0HGv2/APynwWR5HUxO5mPcK2vBSfyFV91xodVLArPFZ3aiQWpP3xMP\nT1dy4h8l+HC2Uf5C7OTBredM\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheets-access@stark-vault-pro-bot.iam.gserviceaccount.com",
+  "client_id": "118440553459880221331",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheets-access%40stark-vault-pro-bot.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
